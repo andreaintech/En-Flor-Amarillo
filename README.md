@@ -1,6 +1,6 @@
 # En Flor Amarillo
 
-**En Flor Amarillo ** is a commercial website about shops, stores and supplies of Flor Amarillo to post establishments, schedules, products, prices, advertising. Flor Amarillo is an urbanization located in Valencia, Carabobo, Venezuela.
+**En Flor Amarillo** is a commercial website about shops, stores and supplies of Flor Amarillo to post establishments, schedules, products, prices, advertising. Flor Amarillo is an urbanization located in Valencia, Carabobo, Venezuela.
 
 Updated and maintained with ❤️ by [@adasilvapdev](https://adasilvapdev.github.io/web/).
 
